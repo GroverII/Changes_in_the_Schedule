@@ -1,0 +1,48 @@
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.exe
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.deps.json
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.runtimeconfig.json
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.pdb
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.Sheets.v4.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\System.CodeDom.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\System.Management.dll
+D:\servers\SheetsInfo\SheetsInfo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.csproj.AssemblyReference.cache
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.AssemblyInfoInputs.cache
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.AssemblyInfo.cs
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.csproj.CoreCompileInputs.cache
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.csproj.CopyComplete
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.dll
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\refint\SheetsInfo.dll
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.pdb
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.genruntimeconfig.cache
+D:\servers\SheetsInfo\SheetsInfo\obj\Debug\net8.0\ref\SheetsInfo.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.exe
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.deps.json
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.runtimeconfig.json
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.pdb
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Google.Apis.Sheets.v4.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\System.Management.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.csproj.AssemblyReference.cache
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.AssemblyInfoInputs.cache
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.AssemblyInfo.cs
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.csproj.CoreCompileInputs.cache
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.csproj.CopyComplete
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\refint\SheetsInfo.dll
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.pdb
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\SheetsInfo.genruntimeconfig.cache
+C:\Users\grigo\OneDrive\Рабочий стол\server\SheetsInfo\SheetsInfo\obj\Debug\net8.0\ref\SheetsInfo.dll

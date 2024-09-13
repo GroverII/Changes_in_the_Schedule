@@ -1,0 +1,135 @@
+~~Ariphaos Unofficial Patch (3.8)
+!!More Trait Picks
+3 Civic Points
+Sensor Expansion
+Smarter Hyper Relays: Improved AI (shrimpAI)
+Bypass Adjustments
+Better Ship Icons
+Enhanced Designation Icons
+Stellaris Enhanced Sound Project
+Stellaris Enhanced Sound Project Fix
+Thaumcraft Jar Sounds
+Stellaris Music Expansion Pack
+SpaceAmbient Music - Vol. I
+SpaceAmbient Music - Vol. II
+Music of the Clone Wars
+Music of the Galactic Civil War
+Battlestar Galactica Music - RePacked
+FA13 Aux
+No Ethics Spawn Bias
+More AI Personalities
+Dawn Of Ascension
+Even More Origins
+Archaeology Story Pack
+Technology Ascendant
+Precursor Story Pack
+More Precursors
+Fatal Foundations Story Pack [3.8]
+Forgotten History
+Forgotten History Galactic Community Resolutions
+Museum Worker Output For Archeology Story Pack
+Extra Events 3.8 Continued
+Endless Frontier: An Event Mod
+Obsessions
+Destroy Archaeological Sites
+Resettle Colony
+Archaeology Sites WTF
+Machine & Robot Expansion
+Total Assimilation [v2]
+Deassimilate Machines
+Specialist Subject: Mercatorum
+Vassals Expanded and Reworked - FunEFork
+Specialist Subject: Mercatorum - Expanded and Reworked
+Government Variety Pack
+Heir Decider
+We Require Borders
+Psionic Ascension: Even in Other Empires
+Leader Traits: All Eligible Species Traits
+Leader Traits: Scientist AI Assistant Upgrader
+Leader Traits: Merge-Add Species Traits
+Leader Traits: Clone Army - All Leader Classes
+Building: Betharian Power Plant - Enhanced
+Corsair's Custom Empires: Eldanær Stellar Authority
+Corsair's Custom Empires: Halcyon Realms of the Marian Polity
+Counter-Limited Armies Fix
+Assimilate All the Pops!
+Pre-FTL Conquest & Infiltration: Enhanced
+Enhanced Trade Districts and Designations
+Colony Designation: Ecumenopolis Commercial
+Planetary Modifier Enhancements
+Penal Colony: Enhanced
+Leisure Districts for People of Culture
+TW - Xeno Compatibility Fix
+Powerful & Realistic Orbital Bombardments [3.8.☠]
+Free General With Purchase
+Planetary Wonders
+[3.8] Claims Decay - Dynamic Diplomacy
+Worthy Ascension Perks for 3.8.*
+Uncivic: New Mechanics for Vanilla Civics
+Civic Engagement
+New Galactic System - Ever Universe's version
+Agreements Boost Diplomatic Weight
+[3.8] Loyal Subjects Have Nothing to Fear (From the Colossus)
+CPD
+Intervene: Help Friendly Nations - FunEFork
+Enclave Adjustment 3.8.2
+Larger Sectors
+5 Times Faster Reinforcement Transit
+At War: Planetary Cannons (3.8.*)
+At War: Planetary Defense Fleets (3.8.*)
+At War: Defense Platform Longevity(3.8.*)
+At War: Better Admiral Experience (3.8.*)
+At War: Starbase Improvements (3.8.*)
+Starbase Solar System Exploitation
+Orbital Ring Buildings Updated
+Big Yards Forked
+Solar Storm
+Guilli's Exploration And Expansion Tweaks
+Guilli's Technologies
+Guilli's Planet Modifiers and Features
+Guillified Precursor  Story Pack (Compat Patch)
+BRT : Balanced Repeatable Techs
+Gigastructural Engineering & More (3.8)
+Real Space 3.8
+Better Rings
+Tier Numbers: Buildings
+Tier Numbers: Tech
+UI Overhaul Dynamic
+UI Overhaul Dynamic - Checksum Schism Version
+UI Overhaul Dynamic - More Tradition Categories (12)
+UI Overhaul Dynamic - Ascension Slots
+! Dark Blue UI Remake
+! Dark Blue UI Universial Patch
+! Dark Blue UI Kasako's Bespoke
+Tall White Reborn
+Star Wars Rebel Ships 3.8
+Star Wars Empire Ships 3.8
+Star Wars Republic Ships 3.8
+Star Wars Separatist Ships 3.8
+Sins of the Prophets: Stellaris
+Sins of the Prophets: Humanoids Fix
+Extra Ship Components NEXT
+ASB Ironman
+ESC NEXT: Overwrites: Component Progression
+ESC NEXT: Overwrites: Global Ship Designs
+ESC NEXT: Overwrites: Special Weapon Types Patch
+CSS : Culture Special Ships
+BSB : Better Ship Behaviors
+P Slot Weapon Type Balance : BSB ADDON
+Aggressive Crisis Engine
+Smarter Leviathans : BSB ADDON, for ESC NEXT GSD
+ASB Addon: ESC NEXT
+B5 Addons: No Trails
+Wider Ship Targeting
+Fleet Formation Mod v2
+! Immersive Beautiful Stellaris !
+Technology Rubberbanding
+! Better Performance & Utilities
+Smarter Hyper Relays & Better Performance & Utilities Compatability Patch
+! Production Revolution
+! Casako's Framework & Modmenu
+!!Universal Modifier Patch (3.8.*)
+!!!Universal Resource Patch [2.4+]
+!!! Worthy Ascension Perks Patch
+! The Merger of Rules 3.8
+No Default Paradox Species - Ironman / Achievement Compatible (Any Version / Any DLC Combinations)

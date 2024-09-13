@@ -1,0 +1,8 @@
+{
+  "ConfigPath": ".\\config.json",
+  "SpreadsheetId": "1MBboSLNI-avCAJ7RZPeJKL-JPIuFY4H9eBoq3W18Qao",
+  "SheetName": "firstTest",
+  "ColumnsRange": "B2:I2",
+  "DataRange": "B3:I",
+  "Command": null
+}

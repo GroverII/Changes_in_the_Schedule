@@ -1,0 +1,256 @@
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(229.82deg, #FFC400 18.72%, #FF6B00 84.82%);
+    -webkit-font-smoothing: antialiased;
+    background-size: 100vw 100vh;
+}
+
+.date {
+    font-size: 1.5vw;
+}
+
+h1 {
+    color: #fff; /* ����� ���� ������ */
+    height: 3.8vw;
+    top: 8.7vh;
+    left: 10vw;
+    position: absolute;
+    font-size: 3.8vw;
+    text-align: left;
+    font-style: normal;
+}
+
+h2 {
+    color: #fff; /* ����� ���� ������ */
+    position: absolute;
+    font-size: 3.8vw;
+    text-align: left;
+    left: 30vw;
+}
+
+h3 {
+    color: #fff; /* ����� ���� ������ */
+    position: absolute;
+    top: 9vh;
+    left: 40vw;
+    font-size: 2vw;
+    text-align: left;
+    font-style: normal;
+}
+
+/* Table Styles */
+.table-wrapper {
+    position: absolute;
+    border-collapse: collapse;
+    font-size: 1.5vw;
+    width: 80vw;
+    height: 70vh;
+    top: 21vh;
+    left: 10vw;
+    color: #fff;
+}
+
+.fl-table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 80vw;
+    height: 70vh;
+}
+
+    .fl-table th {
+    font-size: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #ffffff;
+
+    }
+
+    .fl-table td {
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: #ffffff;
+
+    }
+
+    .fl-table td,
+    .fl-table th {
+        text-align: center;
+        padding: 3px;
+        border: 3px solid #fff; /* Убираем рамку */
+        background: transparent; /* Прозрачный фон */
+        overflow: hidden; /* Скрываем возможное переполнение контента */
+        text-overflow: ellipsis; /* Добавляем многоточие, если контент не помещается */
+    }
+
+.videoContainer {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Для избежания скроллбаров, если видео больше экрана */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videoPlayer {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.photoImage {
+    position: absolute;
+    width: 100vw; /* ������ � ���������, ����� ����������� ��������� ��������� ��������� */
+    height: 100vh; /* ������ � vw */
+}
+
+.logoContainer {
+    position: relative;
+}
+
+.logoImage {
+    width: 10vw; /* �������� ������ �������� */
+    height: 10vw; /* �������������� ���������� ������ ��� ���������� ��������� */
+    position: absolute;
+    right: 1vw; /* ����������� �������������� ������������ �������� �� ������ ���������� */
+    z-index: 100; /* �������������� z-index, ���� ������� ������ ���� ������ ������ ��������� */
+}
+
+.paginationContainer {
+    position: fixed;
+    bottom: 2.9vh; /* ����������� vw ������ �������� */
+    left: 50vw;
+    transform: translateX(-50%);
+    z-index: 1000;
+    width: 100vw; /* �������� 100% ������ viewport'� */
+    text-align: center; /* ������������ ������ �� ������ */
+}
+
+.button-81 {
+    width: 1.5vw;
+    height: 1.5vw;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid #AAAA; /* ��������� �������� border ��� ������� */
+    cursor: pointer;
+    margin: 0.3vw;
+}
+
+
+    .button-81:hover {
+        background-color: gray; /* ������� ���� ���� ��� ��������� */
+        color: #fff; /* ������� ���� ������ ��� ��������� */
+    }
+
+
+    .button-81.active {
+        background-color: #1e293b;
+        color: #fff;
+    }
+
+
+/* Responsive */
+
+@media (max-width: 767px) {
+    .fl-table {
+        display: block;
+        width: 100%;
+        margin-top: 40vw;
+    }
+
+    .table-wrapper:before {
+        content: "Scroll horizontally >";
+        display: block;
+        text-align: right;
+        font-size: 11px;
+        color: white;
+        padding: 0 0 10px;
+        margin-top: 40vw;
+    }
+
+    .fl-table thead, .fl-table tbody, .fl-table thead th {
+        display: block;
+    }
+
+        .fl-table thead th:last-child {
+            border-bottom: none;
+        }
+
+    .fl-table thead {
+        float: left;
+    }
+
+    .fl-table tbody {
+        width: auto;
+        position: relative;
+        overflow-x: auto;
+    }
+
+    .fl-table td, .fl-table th {
+        padding: 20px .625em .625em .625em;
+        height: 60px;
+        vertical-align: middle;
+        box-sizing: border-box;
+        overflow-x: hidden;
+        overflow-y: auto;
+        width: 120px;
+        font-size: 5vw;
+        text-overflow: ellipsis;
+    }
+
+    .fl-table thead th {
+        text-align: left;
+        border-bottom: 1px solid #f7f7f9;
+    }
+
+    .fl-table tbody tr {
+        display: table-cell;
+    }
+
+        .fl-table tbody tr:nth-child(odd) {
+            background: none;
+        }
+
+    .fl-table tr:nth-child(even) {
+        background: transparent;
+    }
+
+    .fl-table tr td:nth-child(odd) {
+        border-right: 1px solid #E6E4E4;
+    }
+
+    .fl-table tr td:nth-child(even) {
+        border-right: 1px solid #E6E4E4;
+    }
+
+    .fl-table tbody td {
+        display: block;
+        text-align: center;
+    }
+
+    .button-81 {
+        width: 4.5vw; /* 5% �� ������ ������� ������� */
+        height: 5vw; /* 5% �� ������ ������� ������� */
+        margin: 1vw; /* 1% �� ������ ������� ������� � �������� ������� */
+    }
+
+    .logoImage {
+        width: 67vw; /* �������� ������ �������� */
+        height: 67vw; /* �������������� ���������� ������ ��� ���������� ��������� */
+        position: absolute;
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 15vw;
+        margin-bottom: 100vw;
+        z-index: 100; /* �������������� z-index, ���� ������� ������ ���� ������ ������ ��������� */
+    }
+}

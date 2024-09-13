@@ -1,0 +1,365 @@
+#admin-body {
+    background: linear-gradient(229.82deg, #565553 18.72vw, rgba(84, 84, 84, 0.31) 84.82vw);
+    background-size: 100vw 100vh;
+}
+
+/* Обертка формы */
+.admin-form {
+    position: absolute;
+    max-width: 30vw;
+    width: 100%;
+    top: 5vh;
+    left: 35vw;
+    margin: 0 auto;
+    padding: 5vw;
+    background-color: #fff;
+    border-radius: 2vw;
+    box-shadow: 0 0 2vw rgba(0, 0, 0, 0.1);
+}
+
+    /* Стили для каждого инпута */
+    .admin-form label {
+        display: block;
+        margin-bottom: 2vw;
+    }
+
+    .admin-form input {
+        width: 100%;
+        padding: 2vw;
+        margin-bottom: 4vw;
+        font-size: 2vw;
+        border: 0.2vw solid #ccc;
+        border-radius: 1vw;
+    }
+
+    /* Стили для кнопки */
+    .admin-form button {
+        background-color: #4caf50;
+        color: #fff;
+        padding: 1.5vw 2.5vw;
+        border: none;
+        border-radius: 1vw;
+        cursor: pointer;
+        font-size: 1.5vw;
+    }
+
+        .admin-form button:hover {
+            background-color: #45a049;
+        }
+
+.container {
+    overflow-x: auto;
+    overflow-y: auto;
+    position: absolute;
+    top: 2.3vh;
+    left: 45vw;
+    width: 35vw;
+    height: 60vh;
+    max-height: 52.4vh;
+}
+
+.content-container {
+    position: absolute;
+    top: 3vh; /* Немного ниже по вертикали */
+    left: 17vw; /* Равно сумме width кнопок и их margin */
+    width: 82vw; /* Задайте желаемую ширину в vw */
+    height: 85vh; /* Задайте желаемую высоту в vh */
+    border: 2px solid rgba(245, 245, 245, 1);
+    border-radius: 2vw;
+    padding: 2vw; /* Добавлен отступ внутри контейнера */
+}
+
+    /* Дополнительные стили для текста внутри контейнера */
+    .content-container p {
+        margin: 2vh 0; /* Отступы сверху и снизу */
+        text-align: justify; /* Выравнивание текста по ширине */
+    }
+    .content-container button {
+        margin-bottom: 2vh;
+        margin-right: 4.3vw;
+        padding: 2vh 3vh;
+        width: 15vw;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        border: 2px solid rgba(245, 245, 245, 1);
+        border-radius: 2vw;
+        background: transparent;
+        color: white;
+        cursor: pointer;
+    }
+
+    .content-container button.active-tab {
+        background: rgba(95, 95, 95, 1);
+    }
+
+.tab-container button {
+    display: block;
+    margin-bottom: 2vh;
+    padding: 2vh 3vh;
+    width: 15vw;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 2px solid rgba(245, 245, 245, 1);
+    border-radius: 2vw;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+    /* Стили для активной кнопки */
+    .tab-container button.active-tab {
+        background: rgba(95, 95, 95, 1);
+    }
+
+.custom-style {
+    display: block;
+    border: none;
+    margin: 0.5vw;
+    padding: 0;
+    width: 2vw;
+    height: 2vw;
+}
+
+.custom-select {
+    width: 15vw;
+    height: 4vh;
+    font-size: 1.5vw;
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+    /* Стили для hover */
+    .custom-select:hover {
+        border-color: #999; /* Изменение цвета границы при наведении курсора */
+    }
+
+.table-settings-container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 20px;
+    width: 29vw;
+}
+
+.settings-group {
+    margin-bottom: 20px;
+}
+
+.setting {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+    .setting label {
+        flex: 1;
+        margin-right: 10px;
+    }
+
+    .setting input[type="text"],
+    .setting select {
+        flex: 2;
+        padding: 5px;
+    }
+
+.apply-button {
+    padding: 10px 20px;
+    background-color: #007bff !important; /* Яркий синий цвет фона */
+    color: #fff !important; /* Белый цвет текста */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .apply-button:hover {
+        background-color: #565553 !important; /* Цвет фона при наведении, соответствующий вашему стилю #admin-body */
+        color: #fff !important; /* Белый цвет текста при наведении */
+    }
+/* Стили для контейнера "папки" */
+.previewWindow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Расстояние между элементами */
+}
+
+/* Стили для элемента "ресурса" */
+.previewItem {
+    width: 30vw; /* Уменьшаем ширину элемента */
+    margin: 10px;
+    margin-right: 5px;
+}
+
+    /* Стили для кнопок */
+    .previewItem button {
+        width: 100%; /* Занимаем всю доступную ширину */
+    }
+
+    .previewItem span {
+        display: inline-block; /* Устанавливаем элементы как блочные элементы в строке */
+        max-width: 15vw; /* Устанавливаем максимальную ширину элемента с учетом отступов */
+        vertical-align: top;
+        overflow: hidden; /* Скрываем содержимое, которое выходит за пределы элемента */
+        text-overflow: ellipsis; /* Добавляем многоточие для обозначения усеченного текста */
+        white-space: nowrap; /* Предотвращаем перенос текста на новую строку */
+    }
+
+
+
+
+/* Стили для изображений */
+.previewImage {
+    width: 10vw; /* Ширина изображения на всю ширину родительского элемента */
+    height: 7vh; /* Автоматическая высота */
+}
+
+.previewItemLink {
+    display: block;
+    width: 10vw;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 6.4vh;
+    /* Дополнительные стили */
+}
+
+.file-upload-container {
+    position: absolute;
+    top: 54.5vh;
+    right: 7.5vw;
+    border: 2px solid rgba(245, 245, 245, 1);
+    border-radius: 2vw;
+    padding: 2vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+    .file-upload-container label {
+        margin-bottom: 10px;
+    }
+
+    .file-upload-container input[type="file"] {
+        margin-bottom: 10px;
+    }
+
+    .file-upload-container button {
+        padding: 5px 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .file-upload-container button:hover {
+        background-color: #0056b3;
+    }
+
+.folder-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.folder-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+    .folder-item button {
+        padding: 5px 10px;
+        border-radius: 1vw;
+        cursor: pointer;
+        margin-right: 5px;
+    }
+
+        .folder-item button:hover {
+            background-color: #0056b3;
+        }
+
+.delete-icon {
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px; /* задайте ширину иконки */
+    height: 20px; /* задайте высоту иконки */
+    margin-left: 5px; /* Добавляем небольшой отступ слева */
+    margin-bottom: 2vh; /* сохраняем отступ ниже как у кнопки */
+    margin-right: 4.3vw; /* сохраняем отступ справа как у кнопки */
+    padding: 2vh 3vh; /* сохраняем внутренние отступы как у кнопки */
+    border: 2px solid rgba(245, 245, 245, 1); /* сохраняем границы как у кнопки */
+    border-radius: 2vw; /* сохраняем радиус скругления как у кнопки */
+    background: transparent; /* сохраняем фон как у кнопки */
+    color: white; /* сохраняем цвет текста как у кнопки */
+}
+
+
+.flex-container {
+    margin-left: auto;
+    display: inline-flex;
+    float: right;
+}
+    .flex-container span {
+        padding: 1vh 2.5vh; /* сохраняем внутренние отступы как у кнопки */
+        border: 2px solid rgba(245, 245, 245, 1); /* сохраняем границы как у кнопки */
+        border-radius: 2vw; /* сохраняем радиус скругления как у кнопки */
+        background: transparent; /* сохраняем фон как у кнопки */
+        color: white; /* сохраняем цвет текста как у кнопки */
+    }
+
+.label-container {
+    margin-bottom: 10px;
+}
+
+    .label-container label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+.select-container select,
+.input-container input[type="password"],
+.input-container input[type="text"] {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.input-container input[type="password"],
+.input-container input[type="text"] {
+    width: 20vw; /* Оставляем место для кнопки справа */
+}
+
+    .input-container input[type="password"]:last-child,
+    .input-container input[type="text"]:last-child {
+        margin-bottom: 20px; /* Добавляем больший отступ после последнего поля ввода */
+    }
+
+.button-container button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+    .button-container button:hover {
+        background-color: #0056b3;
+    }
+
+.button-wrapper {
+    position: absolute;
+    top: 73vh;
+    right: 55vw;
+}

@@ -1,0 +1,5 @@
+csharpScriptPath=.\SheetsInfo\SheetsInfo\bin\Debug\net8.0\SheetsInfo.exe
+credentialsPath=.\SheetsInfo\SheetsInfo\bin\Debug\net8.0\winged-ratio-412809-2e31b7f6d8e7.json
+linksFilePath=.\dir's\
+links=links
+TimeZone=Europe/Riga
